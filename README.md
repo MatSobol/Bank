@@ -13,7 +13,12 @@ you need to give email and password from which you want to send email for passwo
 
 ![image](https://github.com/Mateusz3124/OchronaFixed/assets/95550799/4d10e6a9-1e7d-439a-81ec-9a7d69675aaf)
 
-To get password from gmail for smtp you need to follow this tutorial:
+and set up proper email for accounts in here:
+
+![image](https://github.com/MatSobol/Bank/assets/139177376/1950577b-974a-4314-bad8-9b823ed6c3b4)
+
+
+to get password from gmail for smtp you need to follow this tutorial:
 
 https://support.google.com/mail/answer/185833?hl=en
 
