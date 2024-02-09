@@ -9,7 +9,7 @@ cd Bank
 sudo docker-compose build
 sudo docker-compose up
 ```
-you need to give email and password from which you want to send email for password recovery and to which you want to send notifications about issue on website:
+If you want password recovery and receive error notification to function you need to give email and password in here:
 
 ![image](https://github.com/Mateusz3124/OchronaFixed/assets/95550799/4d10e6a9-1e7d-439a-81ec-9a7d69675aaf)
 
